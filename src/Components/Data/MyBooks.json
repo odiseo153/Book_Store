@@ -1,0 +1,112 @@
+[
+  {
+    "IdBook": 1,
+    "Title": "The Catcher in the Rye",
+    "Autor": "J.D. Salinger",
+    "Gender": "Fiction",
+    "PagesCount": 224,
+    "Description": "A classic coming-of-age novel about a young boy named Holden Caulfield.",
+    "Lenguage": "English",
+    "Avaliable": true,
+    "Cover": "https://th.bing.com/th/id/OIP.kEmWn-6DfWCmhOKfXTRNiAAAAA?pid=ImgDet&rs=1"
+  },
+  {
+    "IdBook": 2,
+    "Title": "To Kill a Mockingbird",
+    "Autor": "Harper Lee",
+    "Gender": "Fiction",
+    "PagesCount": 281,
+    "Description": "Set in the 1930s, this novel addresses issues of race, class, and morality through the eyes of Scout Finch.",
+    "Lenguage": "English",
+    "Avaliable": true,
+    "Cover": "https://th.bing.com/th/id/OIP.Ki_BR3KdIyKfhEwVmzVhGgHaLE?pid=ImgDet&rs=1"
+  },
+  {
+    "IdBook": 3,
+    "Title": "1984",
+    "Autor": "George Orwell",
+    "Gender": "Science Fiction",
+    "PagesCount": 328,
+    "Description": "A dystopian novel that explores themes of totalitarianism and government surveillance.",
+    "Lenguage": "English",
+    "Avaliable": true,
+    "Cover": "https://th.bing.com/th/id/OIP.vyVKvvhDRPSCnNbrw6X3oQHaKc?pid=ImgDet&rs=1"
+  },
+  {
+    "IdBook": 4,
+    "Title": "The Great Gatsby",
+    "Autor": "F. Scott Fitzgerald",
+    "Gender": "Fiction",
+    "PagesCount": 180,
+    "Description": "Set in the Roaring Twenties, this novel depicts the lavish and tumultuous lives of the wealthy elite.",
+    "Lenguage": "English",
+    "Avaliable": true,
+    "Cover": "https://th.bing.com/th/id/R.7c5697ee72aae7fe607f69d223740452?rik=LPrBnBgCEjY%2bbA&pid=ImgRaw&r=0"
+  },
+  {
+    "IdBook": 5,
+    "Title": "Pride and Prejudice",
+    "Autor": "Jane Austen",
+    "Gender": "Romance",
+    "PagesCount": 279,
+    "Description": "A classic romantic novel that follows the complex relationship between Elizabeth Bennet and Mr. Darcy.",
+    "Lenguage": "English",
+    "Avaliable": true,
+    "Cover": "https://th.bing.com/th/id/OIP.aB-MPZA9kwi5akwCxydKNAHaLH?pid=ImgDet&rs=1"
+  },
+  {
+    "IdBook": 6,
+    "Title": "One Hundred Years of Solitude",
+    "Autor": "Gabriel Garcia Marquez",
+    "Gender": "Magical Realism",
+    "PagesCount": 417,
+    "Description": "This epic novel follows the multi-generational Buendia family in the fictional town of Macondo.",
+    "Lenguage": "Spanish",
+    "Avaliable": true,
+    "Cover": "https://th.bing.com/th/id/R.0f264f4d60a3061c31b84f0829239136?rik=ngr7B%2fakT2RugA&pid=ImgRaw&r=0"
+  },
+  {
+    "IdBook": 7,
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Autor": "J.K. Rowling",
+    "Gender": "Fantasy",
+    "PagesCount": 336,
+    "Description": "The first book in the beloved Harry Potter series, introducing the magical world of Hogwarts.",
+    "Lenguage": "English",
+    "Avaliable": true,
+    "Cover": "https://th.bing.com/th/id/OIP.FjMrzZ3yyWReTLDz1uvlbgAAAA?pid=ImgDet&rs=1"
+  },
+  {
+    "IdBook": 8,
+    "Title": "The Hobbit",
+    "Autor": "J.R.R. Tolkien",
+    "Gender": "Fantasy",
+    "PagesCount": 310,
+    "Description": "The classic fantasy adventure novel about Bilbo Baggins and his journey to the Lonely Mountain.",
+    "Lenguage": "English",
+    "Avaliable": true,
+    "Cover": "https://th.bing.com/th/id/OIP.iUd0FIdWSJHPGMizJ1LCvwHaLX?pid=ImgDet&rs=1"
+  },
+  {
+    "IdBook": 9,
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Autor": "J.R.R. Tolkien",
+    "Gender": "Fantasy",
+    "PagesCount": 423,
+    "Description": "The first installment in the epic fantasy trilogy that follows the quest to destroy the One Ring.",
+    "Lenguage": "English",
+    "Avaliable": true,
+    "Cover": "https://1.bp.blogspot.com/-W8uIcVh6SXw/X5-aB0sSrEI/AAAAAAAAVs4/PPHSMPJOi5c6qoe7JGz8XLBjtn5glthdwCLcBGAsYHQ/s2048/The%2BFellowship%2Bof%2Bthe%2BRing%2B%2528The%2BLord%2Bof%2Bthe%2BRings%2B%25231%2529%2BBy%2BJ.R.R.%2BTolkien%2BFree%2BPDF%2BDownload%2B%2BEbook%2Bdownload.jpg"
+  },
+  {
+    "IdBook": 10,
+    "Title": "The Alchemist",
+    "Autor": "Paulo Coelho",
+    "Gender": "Fiction",
+    "PagesCount": 197,
+    "Description": "A philosophical novel about a shepherd boy named Santiago on a journey to find his Personal Legend.",
+    "Lenguage": "Portuguese",
+    "Avaliable": true,
+    "Cover": "https://th.bing.com/th/id/OIP.8JA93Vx9Q0edjQjopBAWSwHaLL?pid=ImgDet&rs=1"
+  }
+]
