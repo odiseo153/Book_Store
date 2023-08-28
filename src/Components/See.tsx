@@ -102,6 +102,8 @@ if(!libroYaExistente){
           />
         </div>
       </div>
+
+
       <button className="alert alert-primary" id="muestra" onClick={() => setAgre(!agregado)}>
         Ver Libros Agregados
       </button>
@@ -113,6 +115,8 @@ if(!libroYaExistente){
           </div>
         )}
       </div>
+
+
       <div className="container">
         <div className="row">
           {Libros.map((e, i) => (
